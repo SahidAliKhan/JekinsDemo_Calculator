@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\JekinsDemo_Calculator\bin\Debug\JekinsDemo_Calculator.dll
+S:\Apps\Dot Net\JekinsDemo_Calculator\bin\Debug\JekinsDemo_Calculator.pdb
+S:\Apps\Dot Net\JekinsDemo_Calculator\obj\Debug\JekinsDemo_Calculator.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\JekinsDemo_Calculator\obj\Debug\JekinsDemo_Calculator.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\JekinsDemo_Calculator\obj\Debug\JekinsDemo_Calculator.dll
+S:\Apps\Dot Net\JekinsDemo_Calculator\obj\Debug\JekinsDemo_Calculator.pdb
